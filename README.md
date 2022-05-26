@@ -9,7 +9,7 @@
     ```
         kubeadm alpha certs check-expiration
     ```
-    ![certificates are expired](\images\certs-expired.png)
+    ![certificates are expired](./images/certs-expired.png)
 
 3. Renew the certificate.
 
