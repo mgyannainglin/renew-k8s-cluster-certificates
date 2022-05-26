@@ -17,7 +17,7 @@
      kubeadm certs renew all
     ```
 
-    ![certificates renew](.\images\renew-certs.png)
+    ![certificates renew](./images/renew-certs.png)
 
 4. backup the old kubelet config and init the new config with new certs.
 
